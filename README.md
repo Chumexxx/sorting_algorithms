@@ -1,1 +1,1 @@
-# sorting_algorithms
+Python Sorting Algorithms for Data Structures which includes, Bubble sprt, Quick sort, counting sort, heap sort, merge sort, bitonic sprt, selection sort. This project will feature the different sorting algorithms in python.
